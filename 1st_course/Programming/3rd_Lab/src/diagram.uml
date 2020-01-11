@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="319.0">Status</node>
+    <node x="420.0" y="76.0">Human</node>
+    <node x="196.0" y="76.0">Call</node>
+    <node x="394.25" y="0.0">Entity</node>
+    <node x="102.0" y="76.0">Feel</node>
+    <node x="384.96078431372547" y="172.0">Policeman</node>
+    <node x="668.4166666666667" y="76.0">Hear</node>
+    <node x="0.0" y="76.0">Brush</node>
+    <node x="741.5" y="172.0">Shrug</node>
+    <node x="514.9607843137255" y="172.0">They</node>
+    <node x="262.5" y="0.0">look_like</node>
+    <node x="650.1372549019608" y="248.0">Karlson</node>
+    <node x="609.9607843137255" y="172.0">Unknown</node>
+    <node x="130.71078431372547" y="172.0">Smoker</node>
+    <node x="559.1666666666667" y="76.0">Watch</node>
+    <node x="290.0" y="76.0">Something</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Unknown" target="Watch">
+      <point x="0.0" y="-13.0" />
+      <point x="657.9607843137255" y="122.0" />
+      <point x="627.5000000000001" y="122.0" />
+      <point x="27.33333333333337" y="13.0" />
+    </edge>
+    <edge source="Smoker" target="Call">
+      <point x="11.125" y="-13.0" />
+      <point x="186.33578431372547" y="142.0" />
+      <point x="233.0" y="142.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Unknown" target="Hear">
+      <point x="32.0" y="-13.0" />
+      <point x="689.9607843137255" y="152.0" />
+      <point x="705.4166666666667" y="152.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Karlson" target="Shrug">
+      <point x="36.0" y="-13.0" />
+      <point x="734.1372549019608" y="228.0" />
+      <point x="782.5" y="228.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Smoker" target="Human">
+      <point x="33.375" y="-13.0" />
+      <point x="208.58578431372547" y="152.0" />
+      <point x="430.25" y="152.0" />
+      <point x="-30.75" y="13.0" />
+    </edge>
+    <edge source="Karlson" target="Hear">
+      <point x="12.0" y="-13.0" />
+      <point x="710.1372549019608" y="218.0" />
+      <point x="731.0" y="218.0" />
+      <point x="24.666666666666657" y="13.0" />
+    </edge>
+    <edge source="Karlson" target="Unknown">
+      <point x="-12.0" y="-13.0" />
+      <point x="686.1372549019608" y="218.0" />
+      <point x="657.9607843137255" y="218.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="They" target="Watch">
+      <point x="0.0" y="-13.0" />
+      <point x="551.9607843137255" y="142.0" />
+      <point x="572.8333333333334" y="142.0" />
+      <point x="-27.33333333333337" y="13.0" />
+    </edge>
+    <edge source="Karlson" target="Watch">
+      <point x="-36.0" y="-13.0" />
+      <point x="662.1372549019608" y="228.0" />
+      <point x="599.4607843137255" y="228.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="They" target="Hear">
+      <point x="24.66666666666663" y="-13.0" />
+      <point x="576.627450980392" y="152.0" />
+      <point x="680.7500000000001" y="152.0" />
+      <point x="-24.66666666666663" y="13.0" />
+    </edge>
+    <edge source="Unknown" target="Human">
+      <point x="-32.0" y="-13.0" />
+      <point x="625.9607843137255" y="132.0" />
+      <point x="491.75" y="132.0" />
+      <point x="30.75" y="13.0" />
+    </edge>
+    <edge source="Human" target="Entity">
+      <point x="0.0" y="-13.0" />
+      <point x="22.25" y="13.0" />
+    </edge>
+    <edge source="Smoker" target="Feel">
+      <point x="-11.125" y="-13.0" />
+      <point x="164.08578431372547" y="142.0" />
+      <point x="139.0" y="142.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Something" target="Entity">
+      <point x="27.5" y="-13.0" />
+      <point x="372.5" y="51.0" />
+      <point x="416.5" y="51.0" />
+      <point x="-22.25" y="13.0" />
+    </edge>
+    <edge source="They" target="Human">
+      <point x="-24.66666666666663" y="-13.0" />
+      <point x="527.2941176470588" y="152.0" />
+      <point x="471.25" y="152.0" />
+      <point x="10.25" y="13.0" />
+    </edge>
+    <edge source="Something" target="look_like">
+      <point x="-27.5" y="-13.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Smoker" target="Brush">
+      <point x="-33.375" y="-13.0" />
+      <point x="141.83578431372547" y="152.0" />
+      <point x="41.0" y="152.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Policeman" target="Human">
+      <point x="0.0" y="-13.0" />
+      <point x="439.96078431372547" y="152.0" />
+      <point x="450.75" y="152.0" />
+      <point x="-10.25" y="13.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="589.5714285714284" y="356.07142857142856" />
+  <SelectedNodes>
+    <node>Something</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

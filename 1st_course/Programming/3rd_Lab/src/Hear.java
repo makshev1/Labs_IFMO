@@ -1,0 +1,3 @@
+interface Hear {
+    void hear();
+}
